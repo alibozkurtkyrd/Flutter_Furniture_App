@@ -12,3 +12,7 @@ A Flutter furniture application made in android studio
 
 
 # Screenshots
+<img src="Screenshots/mainPage.jpg" width= 250 height=500>
+<img src="Screenshots/detailedPage.jpg" width= 250 height=500>
+<img src="Screenshots/cart.jpg" width= 250 height=500>
+<img src="Screenshots/favorite.jpg" width= 250 height=500>
