@@ -1,6 +1,6 @@
 # furniture_app
 
-A new Flutter application.
+A new Flutter furniture application.
 
 ## Getting Started
 
