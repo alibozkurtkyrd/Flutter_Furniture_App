@@ -4,7 +4,7 @@ A Flutter furniture application made in android studio
 
 # Project description
 
-
+The Flutter Furniture App is a project created by a group of students for learning purposes.
 
 # Team members
 
