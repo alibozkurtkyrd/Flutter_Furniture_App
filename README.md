@@ -6,9 +6,9 @@ A Flutter furniture application made in android studio
 
 The Flutter Furniture App is a project created by a group of students for learning purposes.
 
-This is a mobile application where furniture products can be displayed and these products can be added to the cart or favorites.
+This is a mobile application where furniture products can be displayed and added to the cart or favorites.
 
-#Features:
+# Features:
 
 - Listing the furniture product in different categories.
 
